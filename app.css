@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  background-color:#256;
+  color:white;
+  font-style:bold;
+  text-align:center;
+  font-size:25px;
+  padding:20px;
+}
+
+input, button{
+  font-size:20px;
+}
+
+#result {
+  font-size:15px;
+}
+
+.table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  margin:auto;
+}
+
+.table td{
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.table tr:hover {background-color: black;}
+
+.table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align:center;
+  background-color: orange;
+  color: white;
+}
+
+
+
+
+
+
